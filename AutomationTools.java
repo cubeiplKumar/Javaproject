@@ -10,6 +10,8 @@ import java.util.LinkedList;
           l_list.add("Docker");
           l_list.add("Vagrant");
           l_list.add("Nagios");
+          l_list.add("Kubernetes");
+          l_list.add("Terraform");
 	
    // print the list
    System.out.println("The Automated Tools in DevOps are : " + l_list);
